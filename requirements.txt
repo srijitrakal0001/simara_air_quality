@@ -1,5 +1,4 @@
 # Requirements for Simara Air Quality vs Health Impact Analysis
-# Install with: pip install -r requirements.txt
  
 # Core Data Processing
 pandas>=2.0.0
