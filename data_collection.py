@@ -4,7 +4,7 @@ import time
 from datetime import datetime
 
 # YOUR CONFIG
-API_TOKEN = "a46002aea1432fde924ec27d75c4018f31bee32d"
+API_TOKEN = "....."
 LAT = "27.1567"
 LON = "84.9978"
 CSV_FILE = "simara_live_log.csv"
